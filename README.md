@@ -16,7 +16,7 @@ More detailed environment requirements can be found in ```requirements.txt```.
 The dataset format is as follows:
 
 ```shell
- Data/
+ Data
  ├── train
  │   ├── Patient_01├──GT.nii.gz
 				   ├──Patient_01.nii.gz
