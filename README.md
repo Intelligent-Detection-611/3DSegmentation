@@ -1,6 +1,6 @@
 # 3DSegmentation Version 0.1
 
-The initial version of 3DFusion modifies the traditional 2D multimodal image fusion network to enable training on 3D medical data in NIfTI format.
+The initial version of a network model for 3D medical image segmentation utilizing axial attention.
 
 
 ## Recommended Environment
@@ -22,7 +22,7 @@ The dataset format is as follows:
 				   ├──Patient_01.nii.gz
  │   ├── Patient_02├──......
  │   ├── ......
- ├── test
+ ├── test/
  │   ├── Patient_41.nii.gz
  │   ├── Patient_42.nii.gz
  │   ├── ......
